@@ -12,11 +12,11 @@ The 100-day practice is a instagram challenge in which participants posted a dai
 The App is mainly for 100days participants who found themselves in need of extra support,motivation and a connective community. 
 
 ### How?
-*User create account and choose a category of their practice(music, drawing, crafting...)
-*User set when the daily practice time, wether to be reminded and the frequency of reminder
-*User upload image or video of their work with description 
-*User can browse other account' works, leaving comment and possible prompts. User can also follow the account they like. 
-*Based on user's performance, system will provide periodic reflection(eg.how do you feel about the practice, what do you like or dislike, what is your favorite date of practice...etc)
+* User create account and choose a category of their practice(music, drawing, crafting...)
+* User set when the daily practice time, wether to be reminded and the frequency of reminder
+* User upload image or video of their work with description 
+* User can browse other account' works, leaving comment and possible prompts. User can also follow the account they like. 
+* Based on user's performance, system will provide periodic reflection(eg.how do you feel about the practice, what do you like or dislike, what is your favorite date of practice...etc)
  
 
 ### Scope
